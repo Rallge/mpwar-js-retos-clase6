@@ -1,0 +1,27 @@
+{
+  "name": "mpwar-js-retos-clase6-1",
+  "version": "1.0.0",
+  "description": "Gestor de Tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rallge/mpwar-js-retos-clase6.git"
+  },
+  "author": "Geraldine López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rallge/mpwar-js-retos-clase6/issues"
+  },
+  "homepage": "https://github.com/Rallge/mpwar-js-retos-clase6#readme",
+  "devDependencies": {
+    "webpack": "^5.69.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
